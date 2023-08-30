@@ -1,2 +1,1 @@
-# labrepo
-lab test
+Editing the readme file 
